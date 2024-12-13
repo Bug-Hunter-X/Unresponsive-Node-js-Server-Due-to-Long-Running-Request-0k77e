@@ -1,0 +1,1 @@
+This repository demonstrates a common Node.js issue: an unresponsive server caused by a long-running request that blocks the event loop. The `bug.js` file showcases the problem, while `bugSolution.js` provides a solution using promises or async/await to handle asynchronous operations.
